@@ -1,0 +1,1 @@
+The Behavioral State design pattern is a way to implement state machines where an object can change its behavior and state depending on some conditions or external events.
